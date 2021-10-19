@@ -1,0 +1,5 @@
+Note 1: "python.linting.pylintArgs": ["--generate-members"]
+
+
+
+Note 2: https://www.life2coding.com/how-to-di...
